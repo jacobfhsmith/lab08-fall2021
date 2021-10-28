@@ -1,0 +1,36 @@
+---
+title: "Lab 08: Inference using the CLT"
+author: "Team Name: Team member 1, Team member 2, Team member 3, Team member 4"
+date: "`Due November 3, 2021 at 11:59 PM"
+output: pdf_document
+---
+
+### Load packages
+
+```{r load-packages, message=FALSE}
+# load packages
+```
+
+```{r load-data, message  = FALSE}
+# load data
+```
+
+## Exercise 1
+
+## Exercise 2
+
+## Exercise 3
+
+## Exercise 4
+
+## Exercise 5
+
+## Exercise 6
+
+## Exercise 7
+
+## Exercise 8
+
+## Exercise 9
+
+## Exercise 10

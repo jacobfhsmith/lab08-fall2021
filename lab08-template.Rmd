@@ -33,3 +33,5 @@ output: pdf_document
 
 ## Exercise 9
 
+## Exercise 10
+
